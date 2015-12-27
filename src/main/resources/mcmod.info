@@ -1,0 +1,16 @@
+[
+{
+  "modid": "IguanaTweaksMoBuckets",
+  "name": "Iguana Tweaks - Mo' Buckets",
+  "description": "More buckets!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MindWorX"],
+  "credits": "boni and #minecraftforge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
